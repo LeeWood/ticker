@@ -4,7 +4,7 @@ import './css/index.css';
 function App() {
   return (
     <div className="App">
-      <h1> Simple Counter </h1>
+      Test
     </div>
   );
 }
