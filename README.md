@@ -37,7 +37,10 @@ $ nmp start
 - React
 - LESS
 
+# Credits
+This app was inspired by this [onlinecounter](https://tallycounterstore.com/online-counter) from the [Tally Counter Store website](https://tallycounterstore.com/).
+
 # License
-I dunno add on on github for here...
+MIT © [Lee Wood](https://github.com/LeeWood)
 
 ##### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using Yarn.
