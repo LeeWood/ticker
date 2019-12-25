@@ -8,7 +8,7 @@ This is a simple ticker web application built in React. Allows the user to manua
 Clone the repo:
 
 ```
-$ git clone https://github.com/ADDURLHERE
+$ git clone https://github.com/LeeWood/ticker.git
 $ cd ticker
 ```
 Install dependecies:
